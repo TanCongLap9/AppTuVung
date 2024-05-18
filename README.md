@@ -20,6 +20,7 @@ Không chỉ vậy, ứng dụng này còn hỗ trợ những con game hấp d�
 
 ## Cách sử dụng ứng dụng
 > **Lưu ý**: Ứng dụng này **chỉ hoạt động được ở phiên bản Android Marshmallow** (Android 6.0, API 23) trở lên.
+
 > **Lưu ý 2**: Ứng dụng này có thể bị lỗi phiên âm đối với các phiên bản Android mới. 
 
 Đến với ứng dụng này bạn sẽ có thể điều hướng qua 3 mục chính: Từ điển, game và tuỳ chỉnh.
