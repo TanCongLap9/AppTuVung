@@ -32,8 +32,6 @@ Bạn có thể cấu hình bố cục của mỗi từ theo 1 trong 2 dạng: F
 - Flashcard: Mỗi từ được trình bày thành một thẻ với mặt trước là từ tiếng Anh và mặt sau là chi tiết về nó. Bạn lật thẻ bằng cách bấm vào nó.
 - Thu gọn: Tương tự như flashcard nhưng mỗi từ chiếm hết phần ngang của màn hình nhưng nhỏ gọn về bề dọc, với các chi tiết khi bạn bấm vào nó.
 
-> **Lưu ý**: Vì đang trong quá trình phát triển nên bộ từ điển vẫn còn rất nhiều từ phổ biến chưa được thêm vào.
-
 ### Game
 Ở phiên bản hiện tại, ứng dụng này được tích hợp sẵn 3 game:
 - Đoán chữ: Điền vào một số chữ còn thiếu để tạo thành một từ có nghĩa.
