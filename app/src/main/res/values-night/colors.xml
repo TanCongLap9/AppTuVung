@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="flashcard_front_secondary">#0288D1</color> <!-- 700 -->
+    <color name="game_bg">#404040</color>
+    <color name="game_clicked_bg">#606060</color>
+    <color name="game_warning">#9E9D24</color> <!-- 900 -->
+</resources>
