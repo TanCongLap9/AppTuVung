@@ -1,8 +1,8 @@
 # TuDienHT
 
-<CENTER>
+<DIV ALIGN="CENTER">
   <IMG SRC="screenshots/Picture1.png" ALT="Giao diện chính" HEIGHT="300">
-</CENTER>
+</DIV>
 
 Bộ từ điển tiếng Anh phong phú, đa dạng, nhỏ gọn bỏ túi.
 
