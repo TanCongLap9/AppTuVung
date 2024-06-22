@@ -1,4 +1,9 @@
 # TuDienHT
+
+<CENTER>
+  <IMG SRC="screenshots/Picture1.png" ALT="Giao diện chính" HEIGHT="300">
+</CENTER>
+
 Bộ từ điển tiếng Anh phong phú, đa dạng, nhỏ gọn bỏ túi.
 
 App TuDienHT là bộ từ điển tiếng Anh phong phú, đa dạng, nhỏ gọn bỏ túi với nhiều tính năng hấp dẫn giúp người học nhanh chóng mở rộng vốn từ vựng và phát triển, nói tiếng Anh tự tin và tự nhiên hơn.
@@ -40,3 +45,6 @@ Bạn có thể cấu hình bố cục của mỗi từ theo 1 trong 2 dạng: F
 
 ### Tuỳ chỉnh
 Ứng dụng này cung cấp nhiều thông số tuỳ chỉnh giúp bạn có thể tuỳ biến ứng dụng theo cách của riêng.
+
+## Thư viện ảnh
+Xem thư mục [screenshots](screenshots)
